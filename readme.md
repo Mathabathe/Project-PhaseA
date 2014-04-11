@@ -1,11 +1,11 @@
-**#BUSINESS PROPOSAL#**			
+BUSINESS PROPOSAL		
 	
 Project Member	
  ME MELLO	206203560	
 	
-**#Business Description#**	
+Business Description	
 
- **_Moagi  Chairs_** , was established in 2012 and since inception has become a leading supplier of corporate chairs to the business market. 
+ Moagi  Chairs , was established in 2012 and since inception has become a leading supplier of corporate chairs to the business market. 
  Over the last two years Moagi Chairs has built a reputation of being chairs suppliers that are affordable, honest and easy to work with.
  As a result we have grown from strength to strength.
 Essentially, we’re a one-stop shop for all of your office chairs variety requirements. 
@@ -23,7 +23,7 @@ From urgent furniture needs through to specialised project requirements, you can
   100% of the products sold are manufactured in South Africa.
   We will where possible maintain our" MADE WITH IN SOUTH AFRICA" policy.
   
-**#Mission Statement #**
+Mission Statement 
 
  1. We will as a company Remain fair, reasonable and honest.
  2. We will as a company continually strives to give the best value and service for money.
@@ -34,9 +34,9 @@ From urgent furniture needs through to specialised project requirements, you can
 		
 
 		
-**#Objectives of the project#***		
+Objectives of the project	
 		
-##The goals of the website##		
+The goals of the website##		
 		
 The website will be created in such a way that it will allows the future improvements and modification making use		
 of object oriented language in PHP. The whole aim is to design a website that has the capabilities of shopping cart.
@@ -44,14 +44,14 @@ That means a user is allowed to purchase Chairs on-line which would involve ordi
 This leads us to the concept that all transactions will still provide the generation of invoice and email notification. 
 What this system will be able to do is produce reports, sale summaries and customers order history.		
 		
-###Customers benefits###		
+Customers benefits		
 		
 They will be able to view their price catalogues and order statuses. Being privileged to create order and create 
 customised order of chairs.Allow them to perform their search of items sufficiently and accurately. 
 Another important feature is to view the chairs on-line. We are offering user friendly interface that is easy to learn and use. 
 Mainly the we be able to register and sign in clients to personalised ordering.		
 		
-###Administrator benefits###		
+Administrator benefits		
 		
 They have the right to alter the contents of the website, such as changing prices of chairs, removing chairs that are no longer in production
 and have new chairs added to the catalogue. A number of user can be giving access		
@@ -59,12 +59,12 @@ to certain pages which covers the idea of user privileges. They can monitor the 
 as their chairs. An important feature is contacting our customers by the means		
 of emails and newsletter or even directly, this will strengthen the relationship.		
 		
-###Market and competitors###		
+Market and competitors		
 		
 Our potential market are Corporate Companies, public services, Institutions and public Customers.
  Our competitors are Local Companies and international Companies that provides similar services.		
 		
-###Marketing methods###		
+Marketing methods	
 		
 We allow our customer to view and order Chairs on line. When an order is placed, the goods have to be transported to the client.
 Discounts for the companies varies in the range firstly the loyalty of the customer, secondly the quantity of the goods being ordered.
@@ -74,7 +74,7 @@ Newly Manufactured Chairs, we invite our Customers to come join us in the launch
  We tend to have a sales staff that will ensure that all strategies are implemented.
  But our whole goal is to make the public know that we are as reliable as brick and mortar companies. 		
 		
-###Project team###		
+Project team		
 		
 Project type: E-commerce website		
 Project name: Moagi Chairs
